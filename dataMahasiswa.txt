@@ -1,0 +1,20 @@
+
+NIM = 50048988
+Nama = arielj
+Alamat = hsdgyueghjd
+Kelas = TI23
+
+NIM = 20240040090
+Nama = ariell
+Alamat = siaehfsened
+Kelas = TI23
+
+NIM = 20240040302
+Nama = ariell
+Alamat = idugfyugfyu
+Kelas = TI24
+
+NIM = 20240030403
+Nama = rixxix
+Alamat = jhyysdgfyuedgfy
+Kelas = TI23
